@@ -1,4 +1,4 @@
-package com.dsalgo.arrays_strings;
+package com.dsalgo.arrays_strings.twoPointer;
 
 public class MergeTwoSortedArray {
 
